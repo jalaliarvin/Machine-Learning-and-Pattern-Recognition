@@ -1,10 +1,9 @@
-### machine-learning-and-pattern-recognition
- Hands-on experience in training and evaluating ML models for rice species classification tasks
+### Training and Evaluating ML Models for Rice Species Classification Tasks
 
-This project, undertaken as part of the Machine Learning and Pattern Recognition course, was inspired by Çınar and Koklu's research and aimed to train and assess models for image classification. The primary objective was to classify rice species using images of individual grains, drawing from a dataset containing 100 images per rice species selected from a larger pool of 75,000 images.
+This project, part of the Machine Learning and Pattern Recognition course at the University of Turku, aimed to train and evaluate models for image classification. Inspired by Çınar and Koklu's work, the task focused on classifying rice species using images of individual rice grains. The dataset comprised 100 images per rice species, extracted from a larger dataset of 75,000 images.
 
-Feature extraction involved analyzing color features derived from YCbCr-color channel values and morphological features obtained from rice grain contours. Exploratory data analysis techniques such as histograms, pair plots, and Principal Component Analysis (PCA) were utilized to gain insights into the dataset.
+Features were extracted from the rice images, including color features derived from YCbCr-color channel values and morphological features obtained from contours of rice grains. Data analysis techniques such as histograms, pair plots, and Principal Component Analysis (PCA) were used for exploration.
 
-For classification, three classifiers such as Random Forest (RF), Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP) were employed. Model selection was conducted through hyperparameter tuning and 5-fold cross-validation with three repetitions. Nested cross-validation was utilized to estimate model performance, resulting in mean accuracies of 0.994 for RF, 0.998 for SVM, and 0.968 for MLP.
+Three classifiers including Random Forest (RF), Support Vector Machine (SVM), and Multi-Layer Perceptron (MLP) were employed for classification. Model selection involved hyperparameter optimization and 5-fold cross-validation with three repetitions. Nested cross-validation was used to estimate model performance, resulting in mean accuracies of 0.994 for RF, 0.998 for SVM, and 0.968 for MLP.
 
-It's noteworthy that morphological and shape features played significant roles in classification accuracy. This project provided valuable practical experience in training and evaluating machine learning models for image classification tasks, offering insights into feature importance and model performance.
+Notably, morphological and shape features emerged as significant contributors to classification. This exercise provided valuable hands-on experience in training and evaluating ML models for image classification tasks.
