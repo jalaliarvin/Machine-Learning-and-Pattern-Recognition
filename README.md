@@ -1,4 +1,4 @@
-### Training and Evaluating ML Models for Rice Species Classification Tasks
+### Project Title: Training and Evaluating ML Models for Rice Species Classification Tasks
 
 This project, part of the Machine Learning and Pattern Recognition course at the University of Turku, aimed to train and evaluate models for image classification. Inspired by Çınar and Koklu's work, the task focused on classifying rice species using images of individual rice grains. The dataset comprised 100 images per rice species, extracted from a larger dataset of 75,000 images.
 
