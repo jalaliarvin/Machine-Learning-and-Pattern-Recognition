@@ -1,4 +1,4 @@
-# machine-learning-and-pattern-recognition
+### machine-learning-and-pattern-recognition
  Hands-on experience in training and evaluating ML models for rice species classification tasks
 
 This project, undertaken as part of the Machine Learning and Pattern Recognition course, was inspired by Çınar and Koklu's research and aimed to train and assess models for image classification. The primary objective was to classify rice species using images of individual grains, drawing from a dataset containing 100 images per rice species selected from a larger pool of 75,000 images.
